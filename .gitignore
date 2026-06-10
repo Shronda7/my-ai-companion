@@ -1,0 +1,22 @@
+# Streamlit private settings and local keys
+.streamlit/
+secrets.toml
+
+# Python system temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
+
+# Mac system hidden files
+.DS_Store
+
+# Windows system hidden files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
